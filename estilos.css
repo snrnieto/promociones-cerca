@@ -1,0 +1,65 @@
+*{
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+body{
+  background-color: #DCDCDC	;
+  padding:0;
+  margin:0;
+}
+.datos{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.titulo{
+  font-size: 4rem;
+}
+.card{
+  background-color: #ffffff;
+  width:30%;
+  margin: 10px;
+  border-radius: 20px;
+}
+
+.card .promo-img{
+  width: 100%;
+  border-radius: 20px 20px 0px 0px;
+}
+.promo-content{
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.promo-title{
+  font-size: 3.5rem;
+  text-align: center;
+  line-height: 0;
+}
+
+.promo-description{
+  font-size: 2rem;
+}
+
+.btn-solicitar{
+  font-size: 1.8rem;
+  border: none;
+  background-color: rgb(28, 194, 42);
+  color: #ffffff;
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+@media only screen and (max-width: 900px) {
+  .card{
+    width: 45%;
+  }
+
+}
+
+@media only screen and (max-width: 600px) {
+  .card{
+    width:90%;
+  }
+}
