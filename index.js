@@ -1,4 +1,9 @@
 
+function enviarEvento(nombre){
+  console.log("Evento: ${nombre}");
+  mixpanel.track("Video play", {"genre": "hip-hop", "duration in seconds": 42,"restaurante": nombre});
+}
+
 fetch('data.json')
   .then(function (response) {
     return response.json();
@@ -29,9 +34,5 @@ fetch('data.json')
   }
 
 
-function enviarEvento(nombre){
-  console.log("Evento: ${nombre}");
-  mixpanel.track("Video play", {"genre": "hip-hop", "duration in seconds": 42,"restaurante": nombre});
-   
-}
+
 
