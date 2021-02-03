@@ -13,7 +13,29 @@
     <h1 class="titulo">Promociones Cali</h1>
       <div id="myData" class="datos"></div>
     <script>function loadScript(a){var b=document.getElementsByTagName("head")[0],c=document.createElement("script");c.type="text/javascript",c.src="https://tracker.metricool.com/resources/be.js",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:"d8012a8640eb7283b0c2526cb73e010"})});</script>
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/8.2.5/firebase-app.js"></script>
 
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/8.2.5/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  var firebaseConfig = {
+    apiKey: "AIzaSyCYUczANYLDbQ4zr-kRM5JLg1TnzyxxeCM",
+    authDomain: "promos-67e19.firebaseapp.com",
+    projectId: "promos-67e19",
+    storageBucket: "promos-67e19.appspot.com",
+    messagingSenderId: "580614948314",
+    appId: "1:580614948314:web:bef34961780a3c80302ce3",
+    measurementId: "G-NM1MHTNRR3"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
 </body>
 
 </html>
