@@ -31,6 +31,6 @@ fetch('data.json')
 
 function enviarEvento(nombre){
   mixpanel.track("click", {"restaurante": nombre);
-   console.log("Evento "+nombre)
+   console.log("Evento "+nombre);
 }
 
