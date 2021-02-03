@@ -26,6 +26,7 @@ body{
 .card .promo-img{
   width: 100%;
   border-radius: 20px 20px 0px 0px;
+  max-height: 300px;
 }
 .promo-content{
   padding: 10px;
@@ -34,13 +35,13 @@ body{
 }
 
 .promo-title{
-  font-size: 3.5rem;
+  font-size: 3rem;
   text-align: center;
   line-height: 0;
 }
 
 .promo-description{
-  font-size: 2rem;
+  font-size: 1.6rem;
 }
 
 .btn-solicitar{
