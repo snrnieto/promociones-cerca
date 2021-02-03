@@ -20,11 +20,17 @@ fetch('data.json')
             <div class="promo-content">
                 <h1 class="promo-title">${data[i].nombre}</h1>
                 <p class="promo-description">${data[i].descripcion}</p>
-                <button onclick="mixpanel.track("click", {"restaurante": "${data[i].nombre}"});" class="btn-solicitar">Solicitar promoción</button>
+                <button onclick="enviarEvento(${data[i].nombre})" class="btn-solicitar">Solicitar promoción</button>
             </div>
         </div>
     ` ;
       mainContainer.innerHTML+=html;
     }
   }
+
+
+function enviarEvento(nombre){
+  mixpanel.track("click", {"restaurante": nombre);
+   console.log("Evento "+nombre)
+}
 
