@@ -1,9 +1,4 @@
 
-function enviarEvento(nombre){
-  console.log("Evento: ${nombre}");
-  mixpanel.track("Video play", {"genre": "hip-hop", "duration in seconds": 42,"restaurante": nombre});
-}
-
 fetch('data.json')
   .then(function (response) {
     return response.json();
@@ -25,7 +20,7 @@ fetch('data.json')
             <div class="promo-content">
                 <h1 class="promo-title">${data[i].nombre}</h1>
                 <p class="promo-description">${data[i].descripcion}</p>
-                <button onclick="enviarEvento(${data[i].nombre})" class="btn-solicitar">Solicitar promoción</button>
+                <button class="btn-solicitar">Solicitar promoción</button>
             </div>
         </div>
     ` ;
