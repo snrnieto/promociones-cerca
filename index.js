@@ -30,7 +30,7 @@ fetch('data.json')
 
 
 function enviarEvento(nombre){
-  mixpanel.track("click", {"restaurante": nombre);
+  mixpanel.track("Video play", {"genre": "hip-hop", "duration in seconds": 42,"restaurante": nombre});
    console.log("Evento "+nombre);
 }
 
