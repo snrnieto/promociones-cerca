@@ -38,14 +38,21 @@
 </script>
 </body>
         <!-- Google Analytics -->
- <!-- Google Analytics -->
-    <script async src='https://www.google-analytics.com/analytics.js'></script>
-    <script>
-    window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-    ga('create', 'UA-XXXXX-Y', 'auto');
-    ga('send', 'pageview');
-    </script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NM1MHTNRR3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NM1MHTNRR3');
     
-    <!-- End Google Analytics -->
+   gtag('event', 'page_view', {
+      page_title: '<Promociones Cali>',
+      page_location: '<Page Location>',
+      page_path: '<Page Path>'
+      send_to: 'G-NM1MHTNRR3'
+})
+</script>
 
 </html>
