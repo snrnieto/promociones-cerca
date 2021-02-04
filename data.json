@@ -2,47 +2,137 @@
     {
         "nombre": "Panaderia arabe",
         "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/125526834_103181624907939_5059108215314077281_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=PtqdT5QxeGQAX8pElOa&tp=1&oh=a82d5f78f210db9b705691dd6e4556f2&oe=60438A21",
-        "descripcion": "PROMOS MARTES! Para que las disfrutes con los que más quieras 🍔🍤"
+        "descripcion": "PROMOS MARTES! Para que las disfrutes con los que más quieras 🍔🍤",
+        "dias": [
+            2
+        ]
     },
     {
         "nombre": "Cafe del sol",
         "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/125322808_124484172797507_4847087320381851501_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=8J43ay9wxOIAX_o3Ssr&tp=1&oh=5f3c4f7183bedcab5a7d0830e547f86c&oe=60442C7A",
-        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,Exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat."
+        "descripcion": "En nuestro nuevo ALL YOU CAN EAT 🍣🍕 tendremos juntos SUSHI Y PIZZA en un MISMO EVENTO‼️.",
+        "dias": [
+            2,
+            4
+        ]
     },
     {
         "nombre": "Carnes al tizon",
         "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/125785722_185674606485867_351989023362018994_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=dpEvZ0B67qAAX8zZkaA&tp=1&oh=557c591b47264cc75507a6e8bac9fe09&oe=6042AD3D",
-        "descripcion": "Led eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+        "descripcion": "Te esperamos en las plazoletas de comidas de Chipichape y Palmetto. Domicilios Sur: 5137555 - 3450415. Norte: 3797986 - 3172713553",
+        "dias": [
+            2
+        ]
     },
     {
         "nombre": "Daisho",
         "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/125499216_285149329558300_7657494964075162562_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=Kv-9sr9ao7gAX-6DnBn&tp=1&oh=e69a3492690d5a20beef4c0108890838&oe=60426383",
-        "descripcion": "MARTES & JUEVES‼️ 3x2 EN SUSHIS😜🤤😍 Para que se deleiten🥰😘 📍CENTRO 📍SUR"
+        "descripcion": "MARTES & JUEVES‼️ 3x2 EN SUSHIS😜🤤😍 Para que se deleiten🥰😘 📍CENTRO 📍SUR",
+        "dias": [
+            2,
+            4
+        ]
     },
     {
         "nombre": "Pizza Extragrande",
         "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/143243376_2374032792740781_5514505535434531467_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=ryseFlfkHlAAX8dGoaB&tp=1&oh=ca51b84a6b76190025bdc4ca49a1ef13&oe=603F8A32",
-        "descripcion": "PIZZA PIZZA PIZZA!🍕🍕🍕"
+        "descripcion": "PIZZA PIZZA PIZZA!🍕🍕🍕",
+        "dias": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
     },
     {
         "nombre": "Rice and Wings",
         "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/125499216_401746281007385_5440004474968467027_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=ul9EyFtdhooAX8F_ohK&tp=1&oh=3eb5b5577e51e58b5412045ea243de87&oe=60423459",
-        "descripcion": "🔥Es HOY‼️ Es HOY‼️ Todos los martes 3x2 EN WINGS🍗💦"
+        "descripcion": "🔥Es HOY‼️ Es HOY‼️ Todos los martes 3x2 EN WINGS🍗💦",
+        "dias": [
+            2
+        ]
     },
     {
         "nombre": "7 salsas",
-        "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/125438654_184520896654176_752500368646532150_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=Y3b8bLHwiDgAX_ftNNT&tp=1&oh=3a24b2a3fb6dd85de9e9a1fce28898d6&oe=60436501",
-        "descripcion": "Hoy es MARTES DE: ⚡️PROMOCIÓN⚡️🍔🍔🍔♥️ ¡APROVECHA! ⭐️"
+        "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/144942127_491657128490062_491041535313494500_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=ZMxDytrBtbQAX-QopNk&tp=1&oh=396092d6a38ef1dddf77a528b4cf1958&oe=6045D346",
+        "descripcion": "El mejor día de la semana 😍💥 MARTES DE PROMO 💥😍 lleva 3 hamburguesas x solo $38.000 ¿Qué esperas para venir ya por las tuyas?",
+        "dias": [
+            2
+        ]
     },
-        {
+    {
         "nombre": "Sushi Green",
         "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/146194385_870247023814550_364549948573997853_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=cbEE8m3_DvkAX-7sVVq&tp=1&oh=2f727bdd9f8c08dbc392d466d093e490&oe=604340D0",
-        "descripcion": "Si amas el Sushi tanto como nosotros sabes que hoy no es un martes cualquiera, hoy es Martes de Sushi Lovers💚"
+        "descripcion": "Si amas el Sushi tanto como nosotros sabes que hoy no es un martes cualquiera, hoy es Martes de Sushi Lovers💚",
+        "dias": [
+            2
+        ]
     },
-        {
+    {
         "nombre": "TostiMix",
         "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/108034687_2047032105438392_1407226388607685348_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=-cpM6fF8a10AX_Kk-vZ&tp=1&oh=79737f32bbb40389a5dd803862410019&oe=6044AEBA",
-        "descripcion": "MARTES DE PROMO 3X2 !!! Pide tus canasticas a base plátano agridulce 🍌🔥🤤🤤🤤, una promoción para compartir en familia o amigos , programa tu domicilio al 3206374695 📲☎️✔️📞 y pedidos para el oriente al 3106278197💪🏼☎️📲..."
+        "descripcion": "MARTES DE PROMO 3X2 !!! Pide tus canasticas a base plátano agridulce 🍌🔥🤤🤤🤤, una promoción para compartir en familia o amigos , programa tu domicilio al 3206374695 📲☎️✔️📞 y pedidos para el oriente al 3106278197💪🏼☎️📲...",
+        "dias": [
+            2
+        ]
+    },
+    {
+        "nombre": "Route 66",
+        "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/145351996_2867306003589433_8012411441762199154_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=9K8MGwzkQzUAX9P-Yek&tp=1&oh=788e4bc39f93a47d7046b199072a3a15&oe=60445678",
+        "descripcion": "Haz tu👉👉 RESERVA👈👈 ahora!!!, tenemos 2x1 en Hamburguesas, nachos, costillas 🍔🍔🥩🥩 🌮🌮 y 🔥cócteles 🍸🥂🍹,también paga 5 lleva 6 en 🔥cerveza 🍻🍺🍻NACIONAL👉 hasta las 8:00 pm👈 🍗🍔🍻🥂🍹🍸🍺🌮🍢🍔🥪🍤🥩",
+        "dias": [
+            0,3,4,5,6
+        ]
+    },
+    {
+        "nombre": "Capital Food",
+        "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/122148206_384185445945088_5799645401122564243_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=jabPu-qR8gcAX84d3g2&tp=1&oh=54525bd317f4623a2ff0101aa1fb8810&oe=6046B40C",
+        "descripcion": "👉🤤 Los JUEVES son de 3x2 en capitalfood ...🔥🔥 No te quedes con el antojo ‼️",
+        "dias": [
+            2,4
+        ]
+    },
+    {
+        "nombre": "Corinne Cafe",
+        "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/145027239_351807139121024_529684349005487282_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=ntBX5utLmFQAX-v1dpl&tp=1&oh=21983a22d798d717698950c987ee2fe8&oe=6044A1F6",
+        "descripcion": "Arrancamos la semana con las promociones de corinne. Disponibles de lunes a jueves de 3 a 8pm",
+        "dias": [
+            1,2,3,4
+        ]
+    },
+    {
+        "nombre": "Dolce Vicolo",
+        "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/146769953_1140376756412310_8105636544699444455_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=JLNPyAQEHZ0AX-ixKYf&tp=1&oh=8d8b31b340469b1e92b74eb05a6520fd&oe=60449CD2",
+        "descripcion": "MIÉRCOLES DE 2×1 🤩🤩",
+        "dias": [
+            3
+        ]
+    },
+    {
+        "nombre": "Corner Burguer",
+        "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/121517104_694103974796531_1401992867376967582_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=N3pW5KIsTUkAX-TIKMI&tp=1&oh=47f3466e19e1bf19693bd0af6deb9889&oe=6043F040",
+        "descripcion": "JUEVES de 3x2 en BURGERS 🍔🤤🍔🐽🍔💦 Pagas 2 y te regalamos la 3ra 🤗❤️ No te pierdas esta fantástica #Promo y disfruta las BURGERS 🍔 más BRUTALES del 🌎😏",
+        "dias": [
+            4
+        ]
+    },
+    {
+        "nombre": "Corner Burguer",
+        "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/121569589_212528156974935_6825485856322563943_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=38thRjcG5f8AX_sp03U&tp=1&oh=f64eec382a7b0fbe7d912dada129d880&oe=6046939A",
+        "descripcion": "MIÉRCOLES de 3x2 en PERROS 🌭🙋🏻‍♂️🌭🙋🏻‍♀️🌭🙋🏿‍♂️ Pagas 2 y te regalamos la 3ra 🤗❤️ No te pierdas esta fantástica #Promo y disfruta las BURGERS 🍔 más BRUTALES del 🌎😏",
+        "dias": [
+            3
+        ]
+    },
+    {
+        "nombre": "Corner Burguer",
+        "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/121365996_839670553441048_6703996437933329080_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=jLcMJliP5_8AX9iQpuA&tp=1&oh=33ebadca8b392bbdf9a8b3816631655c&oe=60459294",
+        "descripcion": "MARTES de 3x2 en PAPAS 🍟🔥🍟💣🍟💥 Pagas 2 y te regalamos la 3ra 🤗❤️ No te pierdas esta fantástica #Promo y disfruta las BURGERS 🍔 más BRUTALES del 🌎😏",
+        "dias": [
+            3
+        ]
     }
-
 ]
