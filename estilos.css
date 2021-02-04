@@ -15,6 +15,7 @@ body{
 }
 .titulo{
   font-size: 4rem;
+  text-align: center;
 }
 .card{
   background-color: #ffffff;
@@ -26,7 +27,7 @@ body{
 .card .promo-img{
   width: 100%;
   border-radius: 20px 20px 0px 0px;
-  max-height: 300px;
+  max-height: 350px;
 }
 .promo-content{
   padding: 10px;
