@@ -35,13 +35,14 @@ fetch('data.json')
   })
   .then(function (data) {
     
-
+    var dia_num=date.getDay()
+    
     var obj = JSON.parse(JSON.stringify(data))
-    promociones_hoy= obj.filter(item=>item.dias.includes(4));
+    promociones_hoy= obj.filter(item=>item.dias.includes(dia_num));
     promociones_hoy=shuffle(promociones_hoy)
 
-
-    var dia = semana[date.getDay()];
+  
+    var dia = semana[dia_num];
     document.getElementById("titulo").innerHTML = "Promociones en Cali "+dia;
 
 
