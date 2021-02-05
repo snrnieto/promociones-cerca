@@ -174,5 +174,37 @@
         "dias": [
             0,4,5,6
         ]
+    },
+         {
+        "nombre": "Suculentas Burger",
+        "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/145505377_435570397497871_6617252056107035692_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=0dyHhX0q4b4AX9q9fh6&tp=1&oh=41190b4b633d54b958c78c66e93d2a67&oe=6046A318",
+        "descripcion": "👉👉 como es pa' el tardeo hoy⁉️⁉️ O llévatela pa casa con una buena peli 🔥🔥 JUEVES DE 3X2 EN BURGERS🤤",
+        "dias": [
+            4
+        ]
+    },
+     {
+        "nombre": "Burger Parrilla Express",
+        "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/122005048_1514693892055606_1857654098354629236_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=soBI76IvMH4AX-QG-An&tp=1&oh=7611128b0c77568f866b4977ba71bb0c&oe=6046F818",
+        "descripcion": "Disfruta de nuestra promoción permanente.. Cualquier día la puedes llevar. Recuerda que estamos de lunes a lunes. Fines de semana hasta la 1am..",
+        "dias": [
+            0,1,2,3,4,5,6
+        ]
+    },
+     {
+        "nombre": "Hooters",
+        "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/143199029_410710816702064_4322970890123902397_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=W6Hr93Vc-UIAX8oOeTk&tp=1&oh=e1826bb13ae3789aa8ad18813c60e16f&oe=6045E709",
+        "descripcion": "Y llegó el viernes #TardesDeHooters 2x1 en Margaritas 🍸🍸 Cumplimos todos los protocolos de bioseguridad, 50% aforo y distanciamiento de 2 metros en nuestros restaurantes 👌",
+        "dias": [
+            1,2,3,4,5
+        ]
+    },
+     {
+        "nombre": "Hooters",
+        "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/145197350_912123759539648_1855601421915964080_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=jksNcKdSupEAX-yixOY&tp=1&oh=38ef08ab3568b81b04aa5d91cf7eb35d&oe=6044EB12",
+        "descripcion": "Nuevo plan para todos los lunes 🔥 2x1 en #Boneless pagas 10 y recibes 20 🤤 ¡visitanos",
+        "dias": [
+            1
+        ]
     }
 ]
