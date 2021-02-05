@@ -206,5 +206,21 @@
         "dias": [
             1
         ]
+    },
+         {
+        "nombre": "Santa Lulada",
+        "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/146004864_105989378184355_1682896387861417295_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=CrmgWOFpEvEAX_caSGI&tp=1&oh=860a1b0f7bd754c4c46301d11fe4afaa&oe=60452957",
+        "descripcion": "🤤 Sin excusas",
+        "dias": [
+            0,1,2,3,4,5,6
+        ]
+    },
+         {
+        "nombre": "Bendita costilla",
+        "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/146199731_101195148613290_2175493152254551913_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=TLJ8UbkRKXYAX9PCEXo&tp=1&oh=6316a74cccd7d13db68382bf8e0f2d98&oe=6045AF6F",
+        "descripcion": "Si no saben que pedir, acá les dejamos muchas opciones 🤩🤤 recuerden que nuestros productos son elaborados con la mejor carne de cerdo @cervalle_lamarcadelcerdo 🐽",
+        "dias": [
+            0,1,2,3,4,5,6
+        ]
     }
 ]
