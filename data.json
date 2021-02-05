@@ -135,12 +135,44 @@
             3
         ]
     },
-        {
+    {
         "nombre": "Twins Originals",
         "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/144645503_253184329544186_8164477535828338229_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=HOhTmxlG0uIAX9ZeTcD&tp=1&oh=d468ba5037c70ea70028297691ef2476&oe=6045B453",
         "descripcion": "🔥martes de promo🔥",
         "dias": [
             2
+        ]
+    },
+     {
+        "nombre": "Café del sol",
+        "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/146081279_1042655862898633_8405625588535751814_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=1fzd1qsx03oAX-B2a8d&tp=1&oh=df5aa5ee93a170550817ef7f703e1399&oe=604780AC",
+        "descripcion": "Te esperamos este viernes y sábado en nuestro evento: 🍹Gin’n’tonic and Sushicito🍣 .Pide un Gin’n’Tonic y llevas 🍣GRATIS UN ROLLO DE SUSHI🍣 de nuestra carta del all u can eat. Escuchando Chillout en nuestras sedes del oeste y norte.  Precio $29.900",
+        "dias": [
+            5,6
+        ]
+    },
+     {
+        "nombre": "Molle Pizza",
+        "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/fr/e15/p1080x1080/145066496_113494684038943_193989717491140446_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=5c0Kx1unOcMAX-AmVs-&tp=1&oh=3be63383dd14d718297716e75b34dcb3&oe=6046E511",
+        "descripcion": "Traemos una promoción muy especial y por un largo tiempo para que no se la pierdan 🤩🍴 2x1 en nuestros deliciosos calzonis pequeños 2x1 en nuestras pizzas gourmet, en cualquiera de sus sabores. Ven a cualquiera de nuestras sedes y disfruta de esta súper promoción 🤤🤤(Válido de lunes a viernes y solo para comer en punto📍)",
+        "dias": [
+            0,1,2,3,4,5,6
+        ]
+    },
+    {
+        "nombre": "BERCRI LOUNGE",
+        "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/145917013_263732098526728_973390175182937044_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=SxpFSFdOhGQAX836Fcd&tp=1&oh=fbdaea4814ffb9ff5f9eefa69ceda0d7&oe=604571C8",
+        "descripcion": "Un buen momento para despedir tu día en plan. JUEVES Y VIERNES de🍹🍹2x1🍹🍹en coctelería clásica‼️. ¡Te esperamos! Cócteles desde $23.000. 🕔 2pm-11pm",
+        "dias": [
+            4,5
+        ]
+    },
+     {
+        "nombre": "Pizzas Sofi",
+        "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/121030559_2742162432768700_3838905938138475308_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=c7iL4xmuXogAX-4-Isi&tp=1&oh=114c146233ef87eb95cd611716fbaa52&oe=604600C9",
+        "descripcion": "Este mes se vino cargado de Súper #Promos ! A partir de hoy cada Jueves a Domingo traemos gaseosa gratis por la compra de 2 Porciones ! 🔥🥰🍕",
+        "dias": [
+            0,4,5,6
         ]
     }
 ]
