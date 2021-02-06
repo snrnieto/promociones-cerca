@@ -222,5 +222,22 @@
         "dias": [
             0,1,2,3,4,5,6
         ]
+    },
+      {
+        "nombre": "New Anchor Caffe",
+        "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/145950594_245963743703568_5373145242058594864_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=S2Qm7GSqkTAAX-UWB1x&tp=1&oh=ebc048d5d619b2de50ffd61ef13e48ba&oe=6049D313",
+        "descripcion": "Pide una porción de Red Velvet, nosotros invitamos a la segunda ♥️ [Promocion válida hasta el 15 de Febrero 2021] ⚓️ Te quedan las dos porciones por el precio de una. $9mil! ♥️",
+        "dias": [
+            0,1,2,3,4,5,6
+        ]
+    },
+      {
+        "nombre": "Aurelio Pizzeria",
+        "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/147165731_246292697153168_2481724715932147260_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=tZab3MvCCOYAX-Ea6QU&tp=1&oh=f1faa386d567ea4b301fd9459e12eba0&oe=60474EEF",
+        "descripcion": "Hay Palabras que expresan tanto amor que merecen estar escritas en el corazón. Por eso Coca Cola y Aurelio te regalan vasos coleccionables con palabras expresivas, para que tú y los tuyos recuerden los mejores momentos. Pide la promoción Share a Cup y comparte lo mejor de ti.",
+        "dias": [
+            0,1,2,3,4,5,6
+        ]
     }
+    
 ]
