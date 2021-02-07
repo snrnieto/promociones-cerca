@@ -52,7 +52,7 @@ fetch('data.json')
     var modal = document.getElementById("myModal");
 
     // Get the button that opens the modal
-    var btn = document.getElementById("myBtn");
+  var btn = document.getElementsByClassName("btn-solicitar");
 
     // Get the <span> element that closes the modal
     var span = document.getElementsByClassName("close")[0];
@@ -88,7 +88,7 @@ fetch('data.json')
             <div class="promo-content">
                 <h1 class="promo-title">${data[i].nombre}</h1>
                 <p class="promo-description">${data[i].descripcion}</p>
-                <button id="myBtn" class="btn-solicitar">Solicitar promoción</button>
+                <button class="btn-solicitar">Solicitar promoción</button>
             </div>
         </div>
     ` ;
