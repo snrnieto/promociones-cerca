@@ -51,16 +51,16 @@ fetch('data.json')
       // Get the modal
     var modal = document.getElementById("myModal");
 
-    // Get the button that opens the modal
-  var btn = document.getElementsByClassName("btn-solicitar");
-
     // Get the <span> element that closes the modal
     var span = document.getElementsByClassName("close")[0];
 
     // When the user clicks on the button, open the modal
-    btn.onclick = function() {
-      modal.style.display = "block";
-    }
+
+  
+  function clickbtn(nombre){
+  modal.style.display = "block";
+    console.log("Click restaurante"+nombre);
+  }
 
     // When the user clicks on <span> (x), close the modal
     span.onclick = function() {
@@ -88,7 +88,7 @@ fetch('data.json')
             <div class="promo-content">
                 <h1 class="promo-title">${data[i].nombre}</h1>
                 <p class="promo-description">${data[i].descripcion}</p>
-                <button class="btn-solicitar">Solicitar promoción</button>
+                <button onclick="clickbtn(${data[i].nombre})" class="btn-solicitar">Solicitar promoción</button>
             </div>
         </div>
     ` ;
