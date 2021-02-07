@@ -76,6 +76,9 @@ body{
   border: 1px solid #888;
   width: 70%; /* Could be more or less, depending on screen size */
 }
+.modal .title{
+ font-size:2.5rem; 
+}
 
 /* The Close Button */
 .close {
