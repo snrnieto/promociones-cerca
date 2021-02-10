@@ -38,7 +38,7 @@ body{
 .promo-title{
   font-size: 3rem;
   text-align: center;
-  line-height: 0;
+  line-height: 26px;
 }
 
 .promo-description{
