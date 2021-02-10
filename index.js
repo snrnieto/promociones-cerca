@@ -64,7 +64,7 @@ fetch('data.json')
             <div class="promo-content">
                 <h1 class="promo-title">${data[i].nombre}</h1>
                 <p class="promo-description">${data[i].descripcion}</p>
-                <button onclick='alert(${data[i].nombre})' class="btn-solicitar">Solicitar promoción</button>
+                <button onclick=''`+alert(${data[i].nombre})+`'' class="btn-solicitar">Solicitar promoción</button>
             </div>
         </div>
     ` ;
