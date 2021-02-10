@@ -54,6 +54,16 @@ body{
   border-radius: 10px;
 }
 
+.swal2-header{
+ font-size: 1.6rem; 
+}
+.swal2-container a{
+   font-size: 2rem; 
+}
+.swal2-actions {
+    font-size: 1.3rem;
+}
+
 @media only screen and (max-width: 900px) {
   .card{
     width: 45%;
