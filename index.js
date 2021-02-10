@@ -64,11 +64,12 @@ fetch('data.json')
             <div class="promo-content">
                 <h1 class="promo-title">${data[i].nombre}</h1>
                 <p class="promo-description">${data[i].descripcion}</p>
-                <button class="btn-solicitar">Solicitar promoción</button>
+                <button onclick="alert('Restaurante: '+${data[i].nombre})" class="btn-solicitar">Solicitar promoción</button>
             </div>
         </div>
     ` ;
       mainContainer.innerHTML+=html;
+      //mainContainer.insertAdjacentHTML('beforeend',html); 
     }
   }
 
