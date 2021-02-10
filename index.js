@@ -68,8 +68,8 @@ fetch('data.json')
             </div>
         </div>
     ` ;
-      mainContainer.innerHTML+=html;
-      //mainContainer.insertAdjacentHTML('beforeend',html); 
+      //mainContainer.innerHTML+=html;
+      mainContainer.insertAdjacentHTML('beforeend',html); 
     }
   }
 
