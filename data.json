@@ -238,6 +238,66 @@
         "dias": [
             0,1,2,3,4,5,6
         ]
+    },
+      {
+        "nombre": "Pizzeria Lounge",
+        "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/140250736_1083206035484209_3714312131821074563_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=a2syBUewZboAX-Q7POP&tp=1&oh=864016e4d173dcb6714011700718fc50&oe=604C9225",
+        "descripcion": "SÚPER PROMO DE MIÉRCOLES 🥳😱PIZZA MEDIANA + GASESOSA 1.5LTS por solo $40.000 pesos. Qué esperas para pedir y disfrutar, recuerda que tenemos SERVICIO A DOMICILIO 🛵💨",
+        "dias": [
+            3
+        ]
+    },
+          {
+        "nombre": "Manganiello Ristorante",
+        "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/137248823_5319104658099976_2986179445954239231_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=hniJrWoU6hkAX8Wid8C&tp=1&oh=8711ce27824e7e9a4507bfdf7d6a4892&oe=604DE325",
+        "descripcion": "EVENTOS DE LA SEMANA MANGANIELLO! Miércoles: Rodizio de Pizza! Ahora si empezamos este Año con Toda!",
+        "dias": [
+            3
+        ]
+    },
+    
+      {
+        "nombre": "Manganiello Ristorante",
+        "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/137270417_3682808185134497_7944031592154203330_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=IA5yjwGs6hkAX9ynHVO&tp=1&oh=c9f078380cf9f349c9dfe2ef3bc7ec68&oe=604D0644",
+        "descripcion": "EVENTOS DE LA SEMANA MANGANIELLO! Jueves: Amigos Manganiello 2x3!! Ahora si empezamos este Año con Toda!",
+        "dias": [
+            4
+        ]
+    },
+    
+      {
+        "nombre": "Mas K Burger",
+        "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/145997466_118048453552673_7466897701303129466_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=CoaRB99SWmYAX9Ou2Ht&tp=1&oh=7537cd88f21579513c1277c438573a8c&oe=604DAD07",
+        "descripcion": "Miércoles de...𝐀𝐋𝐈𝐓𝐀𝐒🤤 Por la compra de 8 - 12 o 24 #alitasdepollo Recibe el 50% en la segunda ronda Pídelas bañadas en salsa: BBQ / MIEL MOSTAZA 🍯 / HELLBOY",
+        "dias": [
+            3
+        ]
+    },
+          {
+        "nombre": "Mas K Burger",
+        "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/146855145_437643707359406_8600924537585389669_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=DkbSlkrKpgMAX-QiT-o&tp=1&oh=607a2532b29ac11718c551165aac8ddb&oe=604F1E4C",
+        "descripcion": "Hoy 𝐉𝐮𝐞𝐯𝐞𝐬 3x2 en 𝐏𝐞𝐫𝐫𝐨 𝐂𝐚𝐥𝐢𝐞𝐧𝐭𝐞🌭🌭🌭Tradicional / Americano / Ranchero y Suizo Más K Burger",
+        "dias": [
+            4
+        ]
+    },
+    
+    {
+        "nombre": "Minicandy_GY",
+        "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/148241511_425804941872215_7832170206149024566_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=yfFiGsgHxjoAX898WVv&tp=1&oh=6a98be112a823f944fb85e6834762800&oe=604F1D9C",
+        "descripcion": "Miércoles de promoción Tenemos domicilio 🛵↕️ Pedidos al WhatsApp 3127482091",
+        "dias": [
+            3
+        ]
+    },
+    
+     {
+        "nombre": "Teddy's",
+        "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/147967627_206062237923568_514893669481858596_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=jfKqb_OloQgAX8FnQgk&tp=1&oh=969e247a433f5f83027dde15fc351d96&oe=604CA7A3",
+        "descripcion": "En Teddy’s te damos las promos que te gustan‼️🤠 HOY 2 productos x $ 26.000 😉 TÚ eliges 👍 🍔 De la Calle 🍔 Tijuana 🍔 Teddy’s 🌭 Sheriff 🌭 Teddy’s extra grande",
+        "dias": [
+            3
+        ]
     }
     
 ]
