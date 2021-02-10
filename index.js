@@ -54,6 +54,20 @@ fetch('data.json')
     console.log(err);
   });
 
+function showAlert(nombre){
+ Swal.fire({
+  title:nombre,
+  text:"Opciones para solicitar promoción",
+   html:`
+        <ul>              
+          <li><a href="#">Instagram</a></li>
+          <li><a href="#">Sitio web</a></li>
+          <li><a href="#">Facebook</a></li>
+          <li><a href="#">Whatsapp</a></li>
+        </ul>
+      ` 
+ }) 
+}
 
   function appendData(data) {
     var mainContainer = document.getElementById("myData");
@@ -64,7 +78,7 @@ fetch('data.json')
             <div class="promo-content">
                 <h1 class="promo-title">${data[i].nombre}</h1>
                 <p class="promo-description">${data[i].descripcion}</p>
-                <button onclick="console.log('${data[i].nombre}')" class="btn-solicitar">Solicitar promoción</button>
+                <button onclick="showAlert('${data[i].nombre}')" class="btn-solicitar">Solicitar promoción</button>
             </div>
         </div>
     ` ;
