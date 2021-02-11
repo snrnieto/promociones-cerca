@@ -1,40 +1,63 @@
 [
     {
+        "id": 0,
         "nombre": "Panaderia arabe",
         "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/125526834_103181624907939_5059108215314077281_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=PtqdT5QxeGQAX8pElOa&tp=1&oh=a82d5f78f210db9b705691dd6e4556f2&oe=60438A21",
         "descripcion": "PROMOS MARTES! Para que las disfrutes con los que más quieras 🍔🍤",
         "dias": [
             2
-        ]
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/panaderiaarabe1977/",
+            "facebook": "https://www.facebook.com/panaderiaarabecali/"
+        }
     },
     {
+        "id": 1,
         "nombre": "Cafe del sol",
         "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/125322808_124484172797507_4847087320381851501_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=8J43ay9wxOIAX_o3Ssr&tp=1&oh=5f3c4f7183bedcab5a7d0830e547f86c&oe=60442C7A",
         "descripcion": "En nuestro nuevo ALL YOU CAN EAT 🍣🍕 tendremos juntos SUSHI Y PIZZA en un MISMO EVENTO‼️.",
         "dias": [
             2,
             4
-        ]
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/elcafedelsol",
+            "facebook": "https://www.facebook.com/elCafeDelSol/",
+            "web": "http://www.elcafedelsol.com.co/"
+        }
     },
     {
+        "id": 2,
         "nombre": "Carnes al tizon",
         "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/125785722_185674606485867_351989023362018994_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=dpEvZ0B67qAAX8zZkaA&tp=1&oh=557c591b47264cc75507a6e8bac9fe09&oe=6042AD3D",
         "descripcion": "Te esperamos en las plazoletas de comidas de Chipichape y Palmetto. Domicilios Sur: 5137555 - 3450415. Norte: 3797986 - 3172713553",
         "dias": [
             2
-        ]
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/carnesaltizon/",
+            "facebook": "https://www.facebook.com/CarnesAlTizonCali/"
+        }
     },
     {
+        "id": 3,
         "nombre": "Daisho",
         "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/125499216_285149329558300_7657494964075162562_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=Kv-9sr9ao7gAX-6DnBn&tp=1&oh=e69a3492690d5a20beef4c0108890838&oe=60426383",
         "descripcion": "MARTES & JUEVES‼️ 3x2 EN SUSHIS😜🤤😍 Para que se deleiten🥰😘 📍CENTRO 📍SUR",
         "dias": [
             2,
             4
-        ]
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/daishosushi",
+            "facebook": "https://www.facebook.com/daishosushi",
+            "web": "https://daishosushi.wixsite.com/daishosushi"
+        }
     },
     {
-        "nombre": "Pizza Extragrande",
+        "id": 3,
+        "nombre": "Di napoli",
         "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/143243376_2374032792740781_5514505535434531467_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=ryseFlfkHlAAX8dGoaB&tp=1&oh=ca51b84a6b76190025bdc4ca49a1ef13&oe=603F8A32",
         "descripcion": "PIZZA PIZZA PIZZA!🍕🍕🍕",
         "dias": [
@@ -45,267 +68,493 @@
             4,
             5,
             6
-        ]
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/dinapolipizzacali/",
+            "facebook": "https://www.facebook.com/dinapolipizzacali/"
+        }
     },
     {
+        "id": 4,
         "nombre": "Rice and Wings",
         "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/125499216_401746281007385_5440004474968467027_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=ul9EyFtdhooAX8F_ohK&tp=1&oh=3eb5b5577e51e58b5412045ea243de87&oe=60423459",
         "descripcion": "🔥Es HOY‼️ Es HOY‼️ Todos los martes 3x2 EN WINGS🍗💦",
         "dias": [
             2
-        ]
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/riceandwingscali",
+            "facebook": "https://www.facebook.com/riceandwingscali"
+        }
     },
     {
+        "id": 5,
         "nombre": "7 salsas",
         "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/144942127_491657128490062_491041535313494500_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=ZMxDytrBtbQAX-QopNk&tp=1&oh=396092d6a38ef1dddf77a528b4cf1958&oe=6045D346",
         "descripcion": "El mejor día de la semana 😍💥 MARTES DE PROMO 💥😍 lleva 3 hamburguesas x solo $38.000 ¿Qué esperas para venir ya por las tuyas?",
         "dias": [
             2
-        ]
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/7salsascali",
+            "facebook": "https://m.facebook.com/7-Salsas-100639081660333/"
+        }
     },
     {
+        "id": 6,
         "nombre": "Sushi Green",
         "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/146194385_870247023814550_364549948573997853_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=cbEE8m3_DvkAX-7sVVq&tp=1&oh=2f727bdd9f8c08dbc392d466d093e490&oe=604340D0",
         "descripcion": "Si amas el Sushi tanto como nosotros sabes que hoy no es un martes cualquiera, hoy es Martes de Sushi Lovers💚",
         "dias": [
             2
-        ]
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/sushigreenco",
+            "facebook": "https://www.facebook.com/sushigreenco"
+        }
     },
     {
+        "id": 7,
         "nombre": "TostiMix",
         "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/108034687_2047032105438392_1407226388607685348_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=-cpM6fF8a10AX_Kk-vZ&tp=1&oh=79737f32bbb40389a5dd803862410019&oe=6044AEBA",
         "descripcion": "MARTES DE PROMO 3X2 !!! Pide tus canasticas a base plátano agridulce 🍌🔥🤤🤤🤤, una promoción para compartir en familia o amigos , programa tu domicilio al 3206374695 📲☎️✔️📞 y pedidos para el oriente al 3106278197💪🏼☎️📲...",
         "dias": [
             2
-        ]
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/tostimixcali/",
+            "facebook": "https://www.facebook.com/Tosti-Mix-Cali-100393508107556"
+        }
     },
     {
+        "id": 8,
         "nombre": "Route 66",
         "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/145351996_2867306003589433_8012411441762199154_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=9K8MGwzkQzUAX9P-Yek&tp=1&oh=788e4bc39f93a47d7046b199072a3a15&oe=60445678",
         "descripcion": "Haz tu👉👉 RESERVA👈👈 ahora!!!, tenemos 2x1 en Hamburguesas, nachos, costillas 🍔🍔🥩🥩 🌮🌮 y 🔥cócteles 🍸🥂🍹,también paga 5 lleva 6 en 🔥cerveza 🍻🍺🍻NACIONAL👉 hasta las 8:00 pm👈 🍗🍔🍻🥂🍹🍸🍺🌮🍢🍔🥪🍤🥩",
         "dias": [
-            0,3,4,5,6
-        ]
+            0,
+            3,
+            4,
+            5,
+            6
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/route66barcali",
+            "facebook": "https://www.facebook.com/Route66rock.food",
+            "web": "https://route66barcali.com/"
+        }
     },
     {
+        "id": 9,
         "nombre": "Capital Food",
         "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/122148206_384185445945088_5799645401122564243_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=jabPu-qR8gcAX84d3g2&tp=1&oh=54525bd317f4623a2ff0101aa1fb8810&oe=6046B40C",
         "descripcion": "👉🤤 Los JUEVES son de 3x2 en capitalfood ...🔥🔥 No te quedes con el antojo ‼️",
         "dias": [
-            2,4
-        ]
+            2,
+            4
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/capitalfood20"
+        }
     },
     {
+        "id": 10,
         "nombre": "Corinne Cafe",
         "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/145027239_351807139121024_529684349005487282_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=ntBX5utLmFQAX-v1dpl&tp=1&oh=21983a22d798d717698950c987ee2fe8&oe=6044A1F6",
         "descripcion": "Arrancamos la semana con las promociones de corinne. Disponibles de lunes a jueves de 3 a 8pm",
         "dias": [
-            1,2,3,4
-        ]
+            1,
+            2,
+            3,
+            4
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/corinnecafe",
+            "facebook": "https://www.facebook.com/CORINNEcafe",
+            "web": "https://www.corinnecafe.com"
+        }
     },
     {
+        "id": 11,
         "nombre": "Dolce Vicolo",
         "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/146769953_1140376756412310_8105636544699444455_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=JLNPyAQEHZ0AX-ixKYf&tp=1&oh=8d8b31b340469b1e92b74eb05a6520fd&oe=60449CD2",
         "descripcion": "MIÉRCOLES DE 2×1 🤩🤩",
         "dias": [
             3
-        ]
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/dolce.vicolo",
+            "facebook": "https://www.facebook.com/dolcevicolo",
+            "web": "https://dolcevicolo.com.co"
+        }
     },
     {
+        "id": 12,
         "nombre": "Corner Burguer",
         "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/121517104_694103974796531_1401992867376967582_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=N3pW5KIsTUkAX-TIKMI&tp=1&oh=47f3466e19e1bf19693bd0af6deb9889&oe=6043F040",
         "descripcion": "JUEVES de 3x2 en BURGERS 🍔🤤🍔🐽🍔💦 Pagas 2 y te regalamos la 3ra 🤗❤️ No te pierdas esta fantástica #Promo y disfruta las BURGERS 🍔 más BRUTALES del 🌎😏",
         "dias": [
             4
-        ]
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/cornerburgercali",
+            "facebook": "https://www.facebook.com/cornerburgercali"
+        }
     },
     {
+        "id": 13,
         "nombre": "Corner Burguer",
         "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/121569589_212528156974935_6825485856322563943_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=38thRjcG5f8AX_sp03U&tp=1&oh=f64eec382a7b0fbe7d912dada129d880&oe=6046939A",
         "descripcion": "MIÉRCOLES de 3x2 en PERROS 🌭🙋🏻‍♂️🌭🙋🏻‍♀️🌭🙋🏿‍♂️ Pagas 2 y te regalamos la 3ra 🤗❤️ No te pierdas esta fantástica #Promo y disfruta las BURGERS 🍔 más BRUTALES del 🌎😏",
         "dias": [
             3
-        ]
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/cornerburgercali",
+            "facebook": "https://www.facebook.com/cornerburgercali"
+        }
     },
     {
+        "id": 14,
         "nombre": "Corner Burguer",
         "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/121365996_839670553441048_6703996437933329080_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=jLcMJliP5_8AX9iQpuA&tp=1&oh=33ebadca8b392bbdf9a8b3816631655c&oe=60459294",
         "descripcion": "MARTES de 3x2 en PAPAS 🍟🔥🍟💣🍟💥 Pagas 2 y te regalamos la 3ra 🤗❤️ No te pierdas esta fantástica #Promo y disfruta las BURGERS 🍔 más BRUTALES del 🌎😏",
         "dias": [
             2
-        ]
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/cornerburgercali",
+            "facebook": "https://www.facebook.com/cornerburgercali"
+        }
     },
     {
+        "id": 15,
         "nombre": "Twins Originals",
         "imagen": "https://instagram.fclo8-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/144645503_253184329544186_8164477535828338229_n.jpg?_nc_ht=instagram.fclo8-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=HOhTmxlG0uIAX9ZeTcD&tp=1&oh=d468ba5037c70ea70028297691ef2476&oe=6045B453",
         "descripcion": "🔥martes de promo🔥",
         "dias": [
             2
-        ]
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/twinsoriginals",
+            "facebook": "https://www.facebook.com/Twinsoriginals-103970684493803/"
+        }
     },
-     {
+    {
+        "id": 16,
         "nombre": "Café del sol",
         "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/146081279_1042655862898633_8405625588535751814_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=1fzd1qsx03oAX-B2a8d&tp=1&oh=df5aa5ee93a170550817ef7f703e1399&oe=604780AC",
         "descripcion": "Te esperamos este viernes y sábado en nuestro evento: 🍹Gin’n’tonic and Sushicito🍣 .Pide un Gin’n’Tonic y llevas 🍣GRATIS UN ROLLO DE SUSHI🍣 de nuestra carta del all u can eat. Escuchando Chillout en nuestras sedes del oeste y norte.  Precio $29.900",
         "dias": [
-            5,6
-        ]
+            5,
+            6
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/elcafedelsol",
+            "facebook": "https://www.facebook.com/elCafeDelSol/",
+            "web": "http://www.elcafedelsol.com.co/"
+        }
     },
-     {
+    {
+        "id": 17,
         "nombre": "Molle Pizza",
         "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/fr/e15/p1080x1080/145066496_113494684038943_193989717491140446_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=5c0Kx1unOcMAX-AmVs-&tp=1&oh=3be63383dd14d718297716e75b34dcb3&oe=6046E511",
         "descripcion": "Traemos una promoción muy especial y por un largo tiempo para que no se la pierdan 🤩🍴 2x1 en nuestros deliciosos calzonis pequeños 2x1 en nuestras pizzas gourmet, en cualquiera de sus sabores. Ven a cualquiera de nuestras sedes y disfruta de esta súper promoción 🤤🤤(Válido de lunes a viernes y solo para comer en punto📍)",
         "dias": [
-            0,1,2,3,4,5,6
-        ]
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/mollepizza",
+            "facebook": "https://www.facebook.com/mollepizza",
+            "web": "https://www.mollepizza.com"
+        }
     },
     {
+        "id": 18,
         "nombre": "BERCRI LOUNGE",
         "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/145917013_263732098526728_973390175182937044_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=SxpFSFdOhGQAX836Fcd&tp=1&oh=fbdaea4814ffb9ff5f9eefa69ceda0d7&oe=604571C8",
         "descripcion": "Un buen momento para despedir tu día en plan. JUEVES Y VIERNES de🍹🍹2x1🍹🍹en coctelería clásica‼️. ¡Te esperamos! Cócteles desde $23.000. 🕔 2pm-11pm",
         "dias": [
-            4,5
-        ]
+            4,
+            5
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/bercrilounge",
+            "facebook": "https://www.facebook.com/bercrilounge"
+        }
     },
-     {
+    {
+        "id": 19,
         "nombre": "Pizzas Sofi",
         "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/121030559_2742162432768700_3838905938138475308_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=c7iL4xmuXogAX-4-Isi&tp=1&oh=114c146233ef87eb95cd611716fbaa52&oe=604600C9",
         "descripcion": "Este mes se vino cargado de Súper #Promos ! A partir de hoy cada Jueves a Domingo traemos gaseosa gratis por la compra de 2 Porciones ! 🔥🥰🍕",
         "dias": [
-            0,4,5,6
-        ]
+            0,
+            4,
+            5,
+            6
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/pizzas_sofi",
+            "facebook": "https://www.facebook.com/pizzassoficali",
+            "web":"https://pedixapp.com/pizzassofi/categorias"
+        }
     },
-         {
+    {
+        "id": 20,
         "nombre": "Suculentas Burger",
         "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/145505377_435570397497871_6617252056107035692_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=0dyHhX0q4b4AX9q9fh6&tp=1&oh=41190b4b633d54b958c78c66e93d2a67&oe=6046A318",
         "descripcion": "👉👉 como es pa' el tardeo hoy⁉️⁉️ O llévatela pa casa con una buena peli 🔥🔥 JUEVES DE 3X2 EN BURGERS🤤",
         "dias": [
             4
-        ]
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/succulentasburger",
+            "facebook": "https://www.facebook.com/succulentasburgers"
+        }
     },
-     {
+    {
+        "id": 21,
         "nombre": "Burger Parrilla Express",
         "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/122005048_1514693892055606_1857654098354629236_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=soBI76IvMH4AX-QG-An&tp=1&oh=7611128b0c77568f866b4977ba71bb0c&oe=6046F818",
         "descripcion": "Disfruta de nuestra promoción permanente.. Cualquier día la puedes llevar. Recuerda que estamos de lunes a lunes. Fines de semana hasta la 1am..",
         "dias": [
-            0,1,2,3,4,5,6
-        ]
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/burgerparrillaexpt",
+            "facebook": "https://www.facebook.com/burgerparilla"
+        }
     },
-     {
+    {
+        "id": 22,
         "nombre": "Hooters",
         "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/143199029_410710816702064_4322970890123902397_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=W6Hr93Vc-UIAX8oOeTk&tp=1&oh=e1826bb13ae3789aa8ad18813c60e16f&oe=6045E709",
         "descripcion": "Y llegó el viernes #TardesDeHooters 2x1 en Margaritas 🍸🍸 Cumplimos todos los protocolos de bioseguridad, 50% aforo y distanciamiento de 2 metros en nuestros restaurantes 👌",
         "dias": [
-            1,2,3,4,5
-        ]
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/hooterscali",
+            "facebook": "https://www.facebook.com/hootersgranada"
+        }
     },
-     {
+    {
+        "id": 23,
         "nombre": "Hooters",
         "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/145197350_912123759539648_1855601421915964080_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=jksNcKdSupEAX-yixOY&tp=1&oh=38ef08ab3568b81b04aa5d91cf7eb35d&oe=6044EB12",
         "descripcion": "Nuevo plan para todos los lunes 🔥 2x1 en #Boneless pagas 10 y recibes 20 🤤 ¡visitanos",
         "dias": [
             1
-        ]
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/hooterscali",
+            "facebook": "https://www.facebook.com/hootersgranada"
+        }
     },
-         {
+    {
+        "id": 24,
         "nombre": "Santa Lulada",
         "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/146004864_105989378184355_1682896387861417295_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=CrmgWOFpEvEAX_caSGI&tp=1&oh=860a1b0f7bd754c4c46301d11fe4afaa&oe=60452957",
         "descripcion": "🤤 Sin excusas",
         "dias": [
-            0,1,2,3,4,5,6
-        ]
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/santalulada_",
+            "facebook": "https://www.facebook.com/santalulada_-2540104386073196"
+        }
     },
-         {
+    {
+        "id": 25,
         "nombre": "Bendita costilla",
         "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/146199731_101195148613290_2175493152254551913_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=TLJ8UbkRKXYAX9PCEXo&tp=1&oh=6316a74cccd7d13db68382bf8e0f2d98&oe=6045AF6F",
         "descripcion": "Si no saben que pedir, acá les dejamos muchas opciones 🤩🤤 recuerden que nuestros productos son elaborados con la mejor carne de cerdo @cervalle_lamarcadelcerdo 🐽",
         "dias": [
-            0,1,2,3,4,5,6
-        ]
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/bendita.costilla",
+            "facebook": "https://www.facebook.com/benditacostillaporkhouse"
+        }
     },
-      {
+    {
+        "id": 26,
         "nombre": "New Anchor Caffe",
         "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/145950594_245963743703568_5373145242058594864_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=S2Qm7GSqkTAAX-UWB1x&tp=1&oh=ebc048d5d619b2de50ffd61ef13e48ba&oe=6049D313",
         "descripcion": "Pide una porción de Red Velvet, nosotros invitamos a la segunda ♥️ [Promocion válida hasta el 15 de Febrero 2021] ⚓️ Te quedan las dos porciones por el precio de una. $9mil! ♥️",
         "dias": [
-            0,1,2,3,4,5,6
-        ]
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/newanchorcaffe",
+            "facebook": "https://www.facebook.com/newanchorcaffe"
+        }
     },
-      {
+    {
+        "id": 27,
         "nombre": "Aurelio Pizzeria",
         "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/147165731_246292697153168_2481724715932147260_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=tZab3MvCCOYAX-Ea6QU&tp=1&oh=f1faa386d567ea4b301fd9459e12eba0&oe=60474EEF",
         "descripcion": "Hay Palabras que expresan tanto amor que merecen estar escritas en el corazón. Por eso Coca Cola y Aurelio te regalan vasos coleccionables con palabras expresivas, para que tú y los tuyos recuerden los mejores momentos. Pide la promoción Share a Cup y comparte lo mejor de ti.",
         "dias": [
-            0,1,2,3,4,5,6
-        ]
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/aurelio.pizzeria",
+            "facebook": "https://www.facebook.com/aurelio.pizzeria",
+            "web":"https://www.aureliopizzeria.com/"
+        }
     },
-      {
+    {
+        "id": 28,
         "nombre": "Pizzeria Lounge",
         "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/140250736_1083206035484209_3714312131821074563_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=a2syBUewZboAX-Q7POP&tp=1&oh=864016e4d173dcb6714011700718fc50&oe=604C9225",
         "descripcion": "SÚPER PROMO DE MIÉRCOLES 🥳😱PIZZA MEDIANA + GASESOSA 1.5LTS por solo $40.000 pesos. Qué esperas para pedir y disfrutar, recuerda que tenemos SERVICIO A DOMICILIO 🛵💨",
         "dias": [
             3
-        ]
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/pizzarellalounge"
+        }
     },
-          {
+    {
+        "id": 29,
         "nombre": "Manganiello Ristorante",
         "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/137248823_5319104658099976_2986179445954239231_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=hniJrWoU6hkAX8Wid8C&tp=1&oh=8711ce27824e7e9a4507bfdf7d6a4892&oe=604DE325",
         "descripcion": "EVENTOS DE LA SEMANA MANGANIELLO! Miércoles: Rodizio de Pizza! Ahora si empezamos este Año con Toda!",
         "dias": [
             3
-        ]
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/manganiello.ristorante",
+            "facebook": "https://www.facebook.com/manganiello.pizzeria",
+            "web":"http://manganiellopizzeria.com/cali"
+        }
     },
-    
-      {
+    {
+        "id": 30,
         "nombre": "Manganiello Ristorante",
         "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/137270417_3682808185134497_7944031592154203330_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=IA5yjwGs6hkAX9ynHVO&tp=1&oh=c9f078380cf9f349c9dfe2ef3bc7ec68&oe=604D0644",
         "descripcion": "EVENTOS DE LA SEMANA MANGANIELLO! Jueves: Amigos Manganiello 2x3!! Ahora si empezamos este Año con Toda!",
         "dias": [
             4
-        ]
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/manganiello.ristorante",
+            "facebook": "https://www.facebook.com/manganiello.pizzeria",
+            "web":"http://manganiellopizzeria.com/cali"
+        }
     },
-    
-      {
+    {
+        "id": 31,
         "nombre": "Mas K Burger",
         "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/145997466_118048453552673_7466897701303129466_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=CoaRB99SWmYAX9Ou2Ht&tp=1&oh=7537cd88f21579513c1277c438573a8c&oe=604DAD07",
         "descripcion": "Miércoles de...𝐀𝐋𝐈𝐓𝐀𝐒🤤 Por la compra de 8 - 12 o 24 #alitasdepollo Recibe el 50% en la segunda ronda Pídelas bañadas en salsa: BBQ / MIEL MOSTAZA 🍯 / HELLBOY",
         "dias": [
             3
-        ]
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/maskburger",
+            "facebook": "https://www.facebook.com/maskburger"
+        }
     },
-          {
+    {
+        "id": 32,
         "nombre": "Mas K Burger",
         "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/146855145_437643707359406_8600924537585389669_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=DkbSlkrKpgMAX-QiT-o&tp=1&oh=607a2532b29ac11718c551165aac8ddb&oe=604F1E4C",
         "descripcion": "Hoy 𝐉𝐮𝐞𝐯𝐞𝐬 3x2 en 𝐏𝐞𝐫𝐫𝐨 𝐂𝐚𝐥𝐢𝐞𝐧𝐭𝐞🌭🌭🌭Tradicional / Americano / Ranchero y Suizo Más K Burger",
         "dias": [
             4
-        ]
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/maskburger",
+            "facebook": "https://www.facebook.com/maskburger"
+        }
     },
-    
     {
+        "id": 33,
         "nombre": "Minicandy_GY",
         "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/148241511_425804941872215_7832170206149024566_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=yfFiGsgHxjoAX898WVv&tp=1&oh=6a98be112a823f944fb85e6834762800&oe=604F1D9C",
         "descripcion": "Miércoles de promoción Tenemos domicilio 🛵↕️ Pedidos al WhatsApp 3127482091",
         "dias": [
             3
-        ]
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/minicandy_gy/",
+            "facebook": "https://www.facebook.com/Minicandy-GY-102654031464194"
+        }
     },
-    
-     {
+    {
+        "id": 34,
         "nombre": "Teddy's",
         "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/147967627_206062237923568_514893669481858596_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=jfKqb_OloQgAX8FnQgk&tp=1&oh=969e247a433f5f83027dde15fc351d96&oe=604CA7A3",
         "descripcion": "En Teddy’s te damos las promos que te gustan‼️🤠 HOY 2 productos x $ 26.000 😉 TÚ eliges 👍 🍔 De la Calle 🍔 Tijuana 🍔 Teddy’s 🌭 Sheriff 🌭 Teddy’s extra grande",
         "dias": [
             3
-        ]
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/teddys_colombia",
+            "facebook": "https://www.facebook.com/TeddysColombia",
+            "web":"https://www.teddyscolombia.com/"
+        }
     },
-         {
+    {
+        "id": 35,
         "nombre": "La Placita Burger Bar",
         "imagen": "https://instagram.fclo9-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/144678320_1430490374075866_2733696863388426887_n.jpg?_nc_ht=instagram.fclo9-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=Jyp42NgoiiMAX9VF_hR&tp=1&oh=b09dea0b74b7cc88d86a5886e7569670&oe=604C5DA3",
         "descripcion": "Disfruta tu semana con La Burger del Día🍔🍔🍔🍔Nuestras deliciosas hamburguesas con papas rústicas por $16.500 todos los días una diferente!! Aplica para consumo en el establecimiento y domicilios directos",
         "dias": [
-            0,1,2,3,4,5,6
-        ]
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "contacto": {
+            "instagram": "https://www.instagram.com/laplacitacali",
+            "facebook": "https://www.facebook.com/laplacitacali"
+        }
     }
-    
 ]

@@ -1,6 +1,10 @@
-
 var date = new Date();
 var semana = new Array(7);
+
+
+var promos={}
+
+
 semana[0] = "Domingo";
 semana[1] = "Lunes";
 semana[2] = "Martes";
@@ -38,6 +42,7 @@ fetch('data.json')
     var dia_num=date.getDay()
     
     var obj = JSON.parse(JSON.stringify(data))
+    promos=obj
     promociones_hoy= obj.filter(item=>item.dias.includes(dia_num));
     promociones_hoy=shuffle(promociones_hoy)
 
@@ -54,18 +59,40 @@ fetch('data.json')
     console.log(err);
   });
 
-function showAlert(nombre){
+function showAlert(id){
+  var promocion=promos.filter(item=>item.id==id)[0];
+  // console.log(promocion);
+
+  var modalHtml = "<ul>";
+  for (const i in promocion.contacto) {
+    console.log(`${i}: ${promocion.contacto[i]}`);
+
+      if(i=="instagram"){
+        modalHtml+='<li> <a target="_blank" href="'+promocion.contacto[i]+'" class="btn-instagram" >Instagram</a> </li>';
+      }
+      if(i=="facebook"){
+        modalHtml+='<li> <a target="_blank" href="'+promocion.contacto[i]+'"  class="btn-facebook" >Facebook</a></li>';
+      }
+      if(i=="web"){
+        modalHtml+='<li> <a target="_blank" href="'+promocion.contacto[i]+'"  class="btn-web" >Web</a> </li>';
+      }
+    }
+
+  modalHtml+="</ul>"
+  console.log(modalHtml)
+  var links = document.links;
+    for (var i = 0; i < links.length; i++) {
+        links[i].target = "_blank";
+    }
+
+
  Swal.fire({
-  title:nombre,
+  title:promocion.nombre,
   text:"Opciones para solicitar promoción",
-   html:`
-        <ul>              
-          <li><a href="#">Instagram</a></li>
-          <li><a href="#">Sitio web</a></li>
-          <li><a href="#">Facebook</a></li>
-          <li><a href="#">Whatsapp</a></li>
-        </ul>
-      ` 
+  html:modalHtml,
+  width:"70%",
+  confirmButtonText:"Cancelar",
+  padding:"10px"
  }) 
 }
 
@@ -78,7 +105,7 @@ function showAlert(nombre){
             <div class="promo-content">
                 <h1 class="promo-title">${data[i].nombre}</h1>
                 <p class="promo-description">${data[i].descripcion}</p>
-                <button onclick="showAlert('${data[i].nombre}')" class="btn-solicitar">Solicitar promoción</button>
+                <button onclick="showAlert('${data[i].id}')" class="btn-solicitar">Solicitar promoción</button>
             </div>
         </div>
     ` ;
@@ -86,4 +113,3 @@ function showAlert(nombre){
       mainContainer.insertAdjacentHTML('beforeend',html); 
     }
   }
-
