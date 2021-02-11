@@ -129,3 +129,9 @@ body{
     padding: 10px 5%;
   }
 }
+
+@media only screen and (max-width: 330px) {
+  .swal2-content ul li a{
+    font-size:1.6rem
+  }
+}
