@@ -68,13 +68,13 @@ function showAlert(id){
     console.log(`${i}: ${promocion.contacto[i]}`);
 
       if(i=="instagram"){
-        modalHtml+='<li> <a target="_blank" href="'+promocion.contacto[i]+'" class="btn-instagram" >Instagram</a> </li>';
+        modalHtml+='<li> <a target="_blank" href="'+promocion.contacto[i]+'" class="btn-instagram" ><i class=" modal-icon fab fa-instagram"></i> Instagram</a> </li>';
       }
       if(i=="facebook"){
-        modalHtml+='<li> <a target="_blank" href="'+promocion.contacto[i]+'"  class="btn-facebook" >Facebook</a></li>';
+        modalHtml+='<li> <a target="_blank" href="'+promocion.contacto[i]+'"  class="btn-facebook" ><i class="modal-icon fab fa-facebook"></i> Facebook</a></li>';
       }
       if(i=="web"){
-        modalHtml+='<li> <a target="_blank" href="'+promocion.contacto[i]+'"  class="btn-web" >Web</a> </li>';
+        modalHtml+='<li> <a target="_blank" href="'+promocion.contacto[i]+'"  class="btn-web" ><i class="modal-icon fas fa-link"></i> Web</a> </li>';
       }
     }
 
