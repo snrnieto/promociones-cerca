@@ -105,7 +105,7 @@ body{
     width: 45%;
   }
 
-  .swal2-content ul a{
+  .swal2-content ul li a{
     padding: 10px 30%;
   }
 
@@ -115,14 +115,14 @@ body{
   .card{
     width:90%;
   }
-  .swal2-content ul a{
+  .swal2-content ul li a{
     padding: 10px 18%;
   }
 
 }
 
 @media only screen and (max-width: 340px) {
-  .swal2-content ul a{
+  .swal2-content ul li a{
     padding: 10px 5%;
   }
 }
